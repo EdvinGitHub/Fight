@@ -1,0 +1,14 @@
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\bin\Debug\net6.0\Fight.exe
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\bin\Debug\net6.0\Fight.deps.json
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\bin\Debug\net6.0\Fight.runtimeconfig.json
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\bin\Debug\net6.0\Fight.dll
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\bin\Debug\net6.0\Fight.pdb
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.AssemblyInfoInputs.cache
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.AssemblyInfo.cs
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.csproj.CoreCompileInputs.cache
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.dll
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\refint\Fight.dll
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.pdb
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\Fight.genruntimeconfig.cache
+c:\Users\edvin.arvesjo\Desktop\programering 2\Fight\Fight\obj\Debug\net6.0\ref\Fight.dll

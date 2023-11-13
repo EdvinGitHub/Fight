@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2VWSElsuDyloo3UTh6v8VD56t/pHxiKqH4u0PgFXxtHWcPOfBdsLGY2GC/J8w8gJzOILBrB0OACyj0fSDqLgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edvin.arvesjo\\Desktop\\programering 2\\Fight\\Fight\\Fight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\edvin.arvesjo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
